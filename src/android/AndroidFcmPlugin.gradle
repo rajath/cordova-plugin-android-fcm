@@ -17,7 +17,7 @@ allprojects {
 }
 
 dependencies {
-	implementation 'com.google.firebase:firebase-messaging:+'
+	implementation 'com.google.firebase:firebase-messaging:20.3.0'
 }
 
 //apply plugin: 'com.google.gms.google-services'
